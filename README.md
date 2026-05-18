@@ -29,5 +29,5 @@ No momento, também tenho focado meus estudos no desenvolvimento Back-end com No
 ---
 
 📬 **Onde me encontrar:**
-- [LinkedIn](https://www.linkedin.com/in/juan-almeida-1a56b73a9)
+- [LinkedIn](https://www.linkedin.com/in/juanalmeidadev)
 - Email: juanalessonn99@gmail.com
