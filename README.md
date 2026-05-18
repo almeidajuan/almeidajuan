@@ -16,7 +16,6 @@ No momento, também tenho focado meus estudos no desenvolvimento Back-end com No
 ---
 
 ### 💻 Histórico de Projetos (Comerciais e Acadêmicos)
-*A maior parte dos repositórios abaixo é privada por questões de propriedade intelectual, mas compõem minha bagagem de mercado:*
 
 * **Mamboo App (Angola):** Aplicativo de delivery internacional conectando restaurantes, entregadores e clientes finais.
 * **Smart Keeping (App e Web):** Marketplace B2B para conexão de prestadores de serviços de manutenção e treinamento a clínicas e empresas.
