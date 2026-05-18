@@ -1,20 +1,34 @@
-Olá! 👋 Eu sou o Juan Almeida
+# Olá, eu sou o Juan Almeida 👋
 
-Sou um Desenvolvedor Flutter (Frontend) atuando na Branvier, com experiência de mercado desde 2021. Minha carreira é focada em construir aplicações móveis robustas e de alto impacto, com um portfólio que inclui projetos nacionais e internacionais.
+Desenvolvedor Flutter com atuação no mercado desde 2021, focado na criação de aplicações móveis e web. Atualmente trabalho na Branvier e curso Engenharia Biomédica na UFPA.
 
-Paralelamente, sou estudante de Engenharia Biomédica na Universidade Federal do Pará (UFPA). Acredito que a experiência de engenharia complementa muito o desenvolvimento de software, ajudando-me a abordar problemas de forma estruturada.
+No momento, também tenho focado meus estudos no desenvolvimento Back-end com Node.js, TypeScript, Prisma e PostgreSQL.
 
-💡 Foco Atual
-Meu foco principal é o desenvolvimento Frontend - FLutter, mas sou entusiasta de arquitetura de software. Expandindo, atualmente, meu foco de estudo no desenvolvimento Backend, especificamente com Node.js, TypeScript, Prisma e PostgreSQL.
+---
 
-💻 Projetos 
-Alguns dos projetos que participei
+### 🛠️ Tecnologias e Ferramentas
 
- - Mamboo App (Angola - Internacional) : Aplicativo de delivery focado no mercado Angolano, conectando restaurantes e entregadores aos clientes finais.
- - Prontuário Eletrônico (Parceria Cesupa - Saúde/Educação) : Solução de Prontuário Eletrônico (EHR) para a instituição de ensino, utilizada por alunos e professores em atividades acadêmicas e de atendimento.
- - Projeto Desenvolve (Nedeta UEPA - HealthTech/EdTech) : Aplicativo voltado à avaliação de habilidades motoras e cognitivas em crianças com Paralisia Cerebral, aplicando um protocolo clínico validado.
- - Brincando com Leitura (Nedeta UEPA - EdTech) : Aplicativo focado na iniciação à alfabetização e letramento infantil, desenvolvido no núcleo de pesquisa Nedeta.
- - Smart Keeping App e Web (B2B Marketplace) : Plataforma (app e web) que funciona como um marketplace B2B, conectando prestadores de serviços (manutenção, treinamento) a clínicas e empresas.
- - Busquei App (Guia Local) : Aplicativo de descoberta local, focado na busca de pontos de interesse (points) e promoções na cidade de Belém.
- - Value App (FinTech) : Aplicativo de gestão de investimentos pessoais (FinTech), permitindo ao usuário organizar e rastrear sua carteira de ativos financeiros.
- - Praia App (AgriTech/Gestão) : Sistema de gestão para fazendas (AgriTech), focado no gerenciamento de insumos, ração, alevinos e controle financeiro da produção.
+- **Front-end:** Dart, Flutter (iOS, Android & Web), HTML, CSS, JavaScript
+- **Back-end:** Node.js, TypeScript, Express, Prisma ORM
+- **Bancos de Dados:** PostgreSQL, MySQL
+- **Arquitetura e Ferramentas:** BLoC, Provider, Git, GitHub, APIs REST
+
+---
+
+### 💻 Histórico de Projetos (Comerciais e Acadêmicos)
+*A maior parte dos repositórios abaixo é privada por questões de propriedade intelectual, mas compõem minha bagagem de mercado:*
+
+* **Mamboo App (Angola):** Aplicativo de delivery internacional conectando restaurantes, entregadores e clientes finais.
+* **Smart Keeping (App e Web):** Marketplace B2B para conexão de prestadores de serviços de manutenção e treinamento a clínicas e empresas.
+* **Value App:** Aplicativo de finanças focado em gestão e rastreamento de investimentos pessoais.
+* **Praia App:** Sistema de gestão e controle financeiro de produção para o setor de AgriTech (fazendas).
+* **Prontuário Eletrônico:** Solução de EHR desenvolvida para atividades acadêmicas e de atendimento (Parceria Cesupa).
+* **Projeto Desenvolve (NEDETA/UEPA):** Aplicativo voltado à avaliação motora e cognitiva de crianças com Paralisia Cerebral via protocolo clínico.
+* **Brincando com Leitura (NEDETA/UEPA):** Aplicativo focado na iniciação à alfabetização e letramento infantil.
+* **Busquei App:** Guia local para descoberta de pontos de interesse e promoções em Belém.
+
+---
+
+📬 **Onde me encontrar:**
+- [LinkedIn](https://www.linkedin.com/in/juan-almeida-1a56b73a9)
+- Email: juanalessonn99@gmail.com
